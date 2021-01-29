@@ -1,7 +1,8 @@
 # Simple Web Scraping For Fun
 
 ### 1. President Trump's Lies
-Scrape the lies made by President Trump in 2017 using this [website](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html) and store it inside a csv files containing date, lies, explanation of lies and url linked to that explanation
+Scrape the lies made by President Trump in 2017 using this [website](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html) and store it inside a csv files containing date, lies, explanation of lies and url linked to that explanation.
+Here i manage to learn scraping tools such as BeautifulSoup (make scraping HTML pages easier) and python standard library urllib (easily get HTML code of a website for scraping)
 
 ### 2. YouTube Scraping (youtube.py)
 This scrape needs to be done online, suitable to be used for those who want to download YouTube videos from YouTube.
