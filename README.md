@@ -1,7 +1,7 @@
-# Web-Scraping-For-Fun
+# Simple Web Scraping For Fun
 
 
-#### YouTube Scraping (youtube.py)
+### YouTube Scraping (youtube.py)
 This scrape needs to be done online, suitable to be used for those who want to download YouTube videos from YouTube.
 1. Copy the code inside youtube.py file and open it in your text editor/IDE and run
 2. Specify the link of the video you want to download
