@@ -5,7 +5,7 @@ Scrape the lies made by President Trump in 2017 using this [website](https://www
 Here i manage to learn scraping tools such as BeautifulSoup (make scraping HTML pages easier) and python standard library urllib (easily get HTML code of a website for scraping)
 
 ### 2. YouTube Scraping (youtube.py)
-This scrape needs to be done online, suitable to be used for those who want to download YouTube videos from YouTube.
+This scrape needs to be done online, suitable for developers who want to download YouTube videos from YouTube.
 1. Open your command line/terminal, run 'pip install pytube'
 2. Copy the code inside youtube.py file and open it in your text editor/IDE and run
 3. Specify the link of the video you want to download
