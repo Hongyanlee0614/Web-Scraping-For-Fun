@@ -12,7 +12,7 @@ This scrape needs to be done online, suitable to be used for those who want to d
 4. The downloaded video will be in the same directory as your youtube.py file
 5. Enjoy the downloaded video :D
 
-### 3. Instagram Scraping (youtube.py)
+### 3. Instagram Scraping (instagram.py)
 This scrape needs to be done online, suitable to be used for those who want to quickly see through all your followers/followees list (maybe create an excel file for that).
 1. Open your command line/terminal, run 'pip install instaloader'
 2. Copy the code inside instagram.py file and open it in your text editor/IDE
